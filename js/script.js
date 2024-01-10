@@ -171,7 +171,7 @@
 
 	// Counter
 
-	$('.counter-stat span').counterUp({
+	$('.counter-stat .span').counterUp({
 	      delay: 10,
 	      time: 1000
 	  });
