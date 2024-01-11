@@ -77,18 +77,18 @@
 		<div class="row align-items-center">
 			<div class="col-lg-4 col-sm-6">
 				<div class="about-img">
-					<img src="images/about/img-1.jpg" alt="" class="img-fluid">
-					<img src="images/about/img-2.jpg" alt="" class="img-fluid mt-4">
+					<img src="images/about/img-4.jpg" alt="" class="img-fluid">
+					<img src="images/about/img-5.jpg" alt="" class="img-fluid mt-4">
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6">
 				<div class="about-img mt-4 mt-lg-0">
-					<img src="images/about/img-3.jpg" alt="" class="img-fluid">
+					<img src="images/about/img-6.jpg" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-4">
 				<div class="about-content pl-4 mt-4 mt-lg-0">
-					<h2 class="title-color">Personal care <br>& healthy living</h2>
+					<h2 class="title-color">Individualized Wellness <br>& Living a Healthier Life</h2>
 					<p class="mt-4 mb-5">We provide best leading medicle service Nulla perferendis veniam deleniti ipsum officia dolores repellat laudantium obcaecati neque.</p>
 
 					<a href="service.php" class="btn btn-main-2 btn-round-full btn-icon">Services<i class="icofont-simple-right ml-3"></i></a>
@@ -139,9 +139,9 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-7 text-center">
 				<div class="section-title">
-					<h2>Award winning patient care</h2>
+					<h2>Recognized Excellence in Patient Care</h2>
 					<div class="divider mx-auto my-4"></div>
-					<p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
+					<p>Experience the distinction of our award-winning patient care, where excellence meets compassion to prioritize your well-being</p>
 				</div>
 			</div>
 		</div>
@@ -229,7 +229,7 @@
 		<div class="row align-items-center">
 			<div class="col-lg-6 ">
 				<div class="appoinment-content">
-					<img src="images/about/img-3.jpg" alt="" class="img-fluid">
+					<img src="images/about/img-7.jpg" alt="" class="img-fluid">
 					<div class="emergency">
 						<h2 class="text-lg"><i class="icofont-phone-circle text-lg"></i>+23 345 67980</h2>
 					</div>
@@ -237,8 +237,8 @@
 			</div>
 			<div class="col-lg-6 col-md-10 ">
 				<div class="appoinment-wrap mt-5 mt-lg-0">
-					<h2 class="mb-2 title-color">Book appoinment</h2>
-					<p class="mb-4">Mollitia dicta commodi est recusandae iste, natus eum asperiores corrupti qui velit . Iste dolorum atque similique praesentium soluta.</p>
+					<h2 class="mb-2 title-color">Book An Appoinment</h2>
+					<p class="mb-4">Secure your spot for care – effortlessly book an appointment with our hospital for personalized and timely healthcare services.</p>
 					     <form id="#" class="appoinment-form" method="post" action="#">
                     <div class="row">
                          <div class="col-lg-6">
@@ -304,14 +304,82 @@
 		</div>
 	</div>
 </section>
+<section class="section clients">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-7">
+				<div class="section-title text-center">
+					<h2>Partners who support us</h2>
+					<div class="divider mx-auto my-4"></div>
+					<p></p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="row clients-logo">
+			<div class="col-lg-2">
+				<div class="client-thumb">
+					<img src="images/about/1.png" alt="" class="img-fluid">
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="client-thumb">
+					<img src="images/about/2.png" alt="" class="img-fluid">
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="client-thumb">
+					<img src="images/about/3.png" alt="" class="img-fluid">
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="client-thumb">
+					<img src="images/about/4.png" alt="" class="img-fluid">
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="client-thumb">
+					<img src="images/about/5.png" alt="" class="img-fluid">
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="client-thumb">
+					<img src="images/about/6.png" alt="" class="img-fluid">
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="client-thumb">
+					<img src="images/about/3.png" alt="" class="img-fluid">
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="client-thumb">
+					<img src="images/about/4.png" alt="" class="img-fluid">
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="client-thumb">
+					<img src="images/about/5.png" alt="" class="img-fluid">
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class="client-thumb">
+					<img src="images/about/6.png" alt="" class="img-fluid">
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 <section class="section testimonial-2 gray-bg">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-7">
 				<div class="section-title text-center">
-					<h2>We served over 5000+ Patients</h2>
+					<h2>Hear from those who've experienced exceptional care at our hospital</h2>
 					<div class="divider mx-auto my-4"></div>
-					<p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
+					<p>Discover firsthand experiences of outstanding care through heartfelt testimonials from our valued patients.</p>
 				</div>
 			</div>
 		</div>
@@ -401,74 +469,7 @@
 		</div>
 	</div>
 </section>
-<section class="section clients">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-lg-7">
-				<div class="section-title text-center">
-					<h2>Partners who support us</h2>
-					<div class="divider mx-auto my-4"></div>
-					<p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
-				</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="container">
-		<div class="row clients-logo">
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/1.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/2.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/3.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/4.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/5.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/6.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/3.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/4.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/5.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/6.png" alt="" class="img-fluid">
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 <!-- footer Start -->
  
 <?php include('includes/footer.php') ?>
@@ -479,6 +480,7 @@
     Essential Scripts
     =====================================-->
 
+	
     
     <!-- Main jQuery -->
     <script src="plugins/jquery/jquery.js"></script>
