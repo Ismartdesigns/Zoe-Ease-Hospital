@@ -317,9 +317,9 @@ table {
   background: linear-gradient(90deg, #ff5acd, #fd86a7);
 }
 .section--sidebar {
-  background-color: #5616f5;
-  background: -webkit-linear-gradient(#5616f5, #7d28eb);
-  background: linear-gradient(#5616f5, #7d28eb);
+  background-color: #3d6647;
+  background: -webkit-linear-gradient(#3d6647, #6cb57e);
+  background: linear-gradient(#3d6647, #6cb57e);
 }
 .gradient-text {
   -webkit-background-clip: text;
@@ -1286,7 +1286,7 @@ h6 {
   top: 0;
   left: 0;
   z-index: 666;
-  background-color: #5616f5;
+  background-color: #3d6647;
 }
 .sidebar-header__logo {
   color: #fff;

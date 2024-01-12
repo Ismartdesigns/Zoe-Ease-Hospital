@@ -721,7 +721,7 @@ a:focus {
 }
 
 .department-service li i {
-  color: #e12454;
+  color: #3d6647;
 }
 
 .doctors .btn-group .btn {
@@ -736,7 +736,7 @@ a:focus {
 .doctors .btn-group .btn.active {
   box-shadow: none !important;
   border-color: transparent;
-  background: #e12454;
+  background: #3d6647;
   color: #fff;
 }
 
@@ -748,14 +748,14 @@ a:focus {
 .doctors .btn-group .btn:focus {
   box-shadow: none !important;
   border-color: transparent;
-  background: #e12454;
+  background: #3d6647;
   color: #fff;
 }
 
 .doctors .btn-group .btn:hover {
   box-shadow: none !important;
   border-color: transparent;
-  background: #e12454;
+  background: #3d6647;
   color: #fff;
 }
 
@@ -793,7 +793,7 @@ a:focus {
 
 .doctor-info li i {
   margin-right: 20px;
-  color: #e12454;
+  color: #3d6647;
 }
 
 .read-more {
@@ -1421,7 +1421,7 @@ a:focus {
 }
 
 .widget .footer-menu a:hover {
-  color: #e12454;
+  color: #3d6647;
 }
 
 .footer-contact-block span {
@@ -1454,7 +1454,7 @@ a:focus {
 }
 
 .widget-contact h6 i {
-  color: #e12454;
+  color: #3d6647;
 }
 
 .subscribe {
