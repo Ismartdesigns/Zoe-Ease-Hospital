@@ -102,14 +102,14 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .btn-main {
-  background: #3d6647;
+  background: #6cb57e;
   color: #fff;
-  border-color: #3d6647;
+  border-color: #6cb57e;
 }
 
 .btn-main:hover {
   background: #3d6647;
-  border-color: #e12454;
+  border-color: #3d6647;
   color: #fff;
 }
 
@@ -538,6 +538,10 @@ a:focus {
   box-shadow: 0px 0px 30px 0px rgba(0, 42, 106, 0.1);
 }
 
+.about-block-item img {
+  border-radius: 10px;
+}
+
 .award-img {
   height: 120px;
   margin-bottom: 10px;
@@ -545,6 +549,11 @@ a:focus {
   display: flex;
   justify-content: center;
   background: #eff0f3;
+  border-radius: 10px;
+}
+
+.team-block img {
+  border-radius: 10px;
 }
 
 .appoinment-content {
@@ -871,6 +880,7 @@ a:focus {
   position: absolute;
   content: "";
   background: url("../images/bg/bg-2.jpg") no-repeat 50% 50%;
+  border-radius: 10px;
 }
 
 .testimonial .slick-dots {
@@ -1035,7 +1045,7 @@ a:focus {
   font-size: 50px;
   margin-bottom: 15px;
   display: inline-block;
-  color: #e12454;
+  color: #6cb57e;
 }
 
 .blog-item-content h2 {
@@ -1091,7 +1101,7 @@ a:focus {
   color: #3d6647;
   padding: 40px;
   font-style: italic;
-  border-left: 5px solid #e12454;
+  border-left: 5px solid #6cb57e;
   margin: 25px 0px;
 }
 
@@ -1298,7 +1308,7 @@ a:focus {
   bottom: 0px;
   width: 35px;
   height: 3px;
-  background: #e12454;
+  background: #6cb57e;
 }
 
 .sidebar-widget.latest-post .media img {

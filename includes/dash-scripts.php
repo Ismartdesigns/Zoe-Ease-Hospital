@@ -1,0 +1,13 @@
+<script src="../js/jquery-3.3.1.min.js"></script>
+<script src="../js/Chart.min.js"></script>
+<script src="../js/chartjs-plugin-style.min.js"></script>
+<script src="../js/charts-custom-dashboard.js"></script>
+<script src="../js/moment.min.js"></script>
+<script src="../js/calendar.js"></script>
+<script src="../js/swiper.min.js"></script>
+<script src="../js/select2.min.js"></script>
+<script src="../js/jquery.scrollbar.js"></script>
+<script src="../js/jquery.countdown.min.js"></script>
+<script src="../js/daterangepicker.min.js"></script>
+<script src="../js/ion.rangeSlider.min.js"></script>
+<script src="../js/jquery.dashboard-custom.js"></script>
