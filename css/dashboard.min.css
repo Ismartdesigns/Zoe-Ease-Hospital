@@ -307,8 +307,8 @@ table {
 .table--new-doctors .table__body .table__row.selected,
 .table--new-doctors .table__body .table__row:hover {
   background-color: #5616f5;
-  background: -webkit-linear-gradient(90deg, #5616f5, #b446f4);
-  background: linear-gradient(90deg, #5616f5, #b446f4);
+  background: -webkit-linear-gradient(90deg, #3d6647, #6cb57e);
+  background: linear-gradient(90deg, #3d6647, #6cb57e);
 }
 .appointment__time,
 .gradient-pink {

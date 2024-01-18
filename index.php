@@ -41,7 +41,7 @@
 								<span>24 Hours Service</span>
 								<h4 class="mb-3">Online Appoinment</h4>
 								<p class="mb-4">Experience the convenience of our 24-hour service and easily schedule appointments.</p>
-								<a href="appoinment.php" class="btn btn-main btn-round-full">Make a appoinment</a>
+								<a href="appoinment.php" class="btn btn-main btn-round-full">Book Appointment</a>
 							</div>
 
 							<div class="feature-item mb-5 mb-lg-0">
@@ -103,7 +103,7 @@
 					<div class="row">
 						<div class="col-lg-3 col-md-6 col-sm-6">
 							<div class="counter-stat">
-								<i class="icofont-doctor"></i>
+								<i class="icofont-user-suited"></i>
 								<span class="h3 span">58</span><span class="h3">+</span>
 								<p>Happy People</p>
 							</div>
@@ -111,23 +111,23 @@
 						<div class="col-lg-3 col-md-6 col-sm-6">
 							<div class="counter-stat">
 								<i class="icofont-flag"></i>
-								<span class="h3 span">700</span><span class="h3">+</span>
-								<p>Surgery Comepleted</p>
+								<span class="h3 span">10</span><span class="h3">+</span>
+								<p>Years Of Experience</p>
 							</div>
 						</div>
 
 						<div class="col-lg-3 col-md-6 col-sm-6">
 							<div class="counter-stat">
-								<i class="icofont-badge"></i>
+								<i class="icofont-doctor"></i>
 								<span class="h3 span">40</span><span class="h3">+</span>
-								<p>Expert Doctors</p>
+								<p>Expert Staffs</p>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6">
 							<div class="counter-stat">
-								<i class="icofont-globe"></i>
-								<span class="h3 span">20</span><span class="h3">+</span>
-								<p>Worldwide Branch</p>
+								<i class="icofont-badge"></i>
+								<span class="h3 span">100</span><span class="h3">%</span>
+								<p>Quality</p>
 							</div>
 						</div>
 					</div>
@@ -150,12 +150,12 @@
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-4">
 							<div class="icon d-flex align-items-center">
-								<i class="icofont-laboratory text-lg"></i>
-								<h4 class="mt-3 mb-3">Laboratory services</h4>
+								<i class="icofont-patient-bed text-lg"></i>
+								<h4 class="mt-3 mb-3">Orthopaedic Surgery</h4>
 							</div>
 
 							<div class="content">
-								<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+								<p class="mb-4">Trust our skilled specialists for advanced and compassionate orthopaedic care, restoring mobility and enhancing your quality of life.</p>
 							</div>
 						</div>
 					</div>
@@ -164,10 +164,10 @@
 						<div class="service-item mb-4">
 							<div class="icon d-flex align-items-center">
 								<i class="icofont-heart-beat-alt text-lg"></i>
-								<h4 class="mt-3 mb-3">Heart Disease</h4>
+								<h4 class="mt-3 mb-3">Cardiology</h4>
 							</div>
 							<div class="content">
-								<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+								<p class="mb-4">Explore cutting-edge Cardiology services at our hospital, where skilled specialists and advanced technology come together to prioritize your heart health.</p>
 							</div>
 						</div>
 					</div>
@@ -176,10 +176,10 @@
 						<div class="service-item mb-4">
 							<div class="icon d-flex align-items-center">
 								<i class="icofont-tooth text-lg"></i>
-								<h4 class="mt-3 mb-3">Dental Care</h4>
+								<h4 class="mt-3 mb-3">Dentistry</h4>
 							</div>
 							<div class="content">
-								<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+								<p class="mb-4">Trust our skilled professionals to provide comprehensive and compassionate dental care, ensuring your oral health is in expert hands.</p>
 							</div>
 						</div>
 					</div>
@@ -189,11 +189,11 @@
 						<div class="service-item mb-4">
 							<div class="icon d-flex align-items-center">
 								<i class="icofont-crutch text-lg"></i>
-								<h4 class="mt-3 mb-3">Body Surgery</h4>
+								<h4 class="mt-3 mb-3">General Surgery</h4>
 							</div>
 
 							<div class="content">
-								<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+								<p class="mb-4">Trust our skilled and experienced professionals for comprehensive and specialized care in general surgery at our hospital.</p>
 							</div>
 						</div>
 					</div>
@@ -201,11 +201,11 @@
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-4">
 							<div class="icon d-flex align-items-center">
-								<i class="icofont-brain-alt text-lg"></i>
-								<h4 class="mt-3 mb-3">Neurology Sargery</h4>
+								<i class="icofont-laboratory text-lg"></i>
+								<h4 class="mt-3 mb-3">Laboratory Services</h4>
 							</div>
 							<div class="content">
-								<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+								<p class="mb-4">Explore Cutting-Edge Laboratory Services for Accurate Diagnostics and Comprehensive Health Assessment at Our Hospital.</p>
 							</div>
 						</div>
 					</div>
@@ -217,10 +217,13 @@
 								<h4 class="mt-3 mb-3">Gynecology</h4>
 							</div>
 							<div class="content">
-								<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+								<p class="mb-4">Trust our dedicated team for comprehensive and compassionate services tailored to your women's health needs.</p>
 							</div>
 						</div>
 					</div>
+				</div>
+				<div class="text-center">
+					<a href="service.php" class="btn btn-main btn-round-full">Learn More</a>
 				</div>
 			</div>
 		</section>
@@ -297,7 +300,7 @@
 									<textarea name="message" id="message" class="form-control" rows="6" placeholder="Your Message"></textarea>
 								</div>
 
-								<a class="btn btn-main btn-round-full" href="appoinment.php">Make Appoinment <i class="icofont-simple-right ml-2  "></i></a>
+								<a class="btn btn-main btn-round-full" href="appoinment.php">Book Appointment <i class="icofont-simple-right ml-2  "></i></a>
 							</form>
 						</div>
 					</div>
@@ -476,7 +479,7 @@
 
 
 
-	 <!-- 
+		<!-- 
      Essential Scripts
      =====================================-->
 

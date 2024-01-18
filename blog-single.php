@@ -79,6 +79,86 @@
 								</div>
 							</div>
 						</div>
+
+						<div class="col-lg-12">
+							<div class="comment-area mt-4 mb-5">
+								<h4 class="mb-4">2 Comments on Healthy environment...</h4>
+								<ul class="comment-tree list-unstyled">
+									<li class="mb-5">
+										<div class="comment-area-box">
+											<div class="comment-thumb float-left">
+												<img alt="" src="images/blog/testimonial1.jpg" class="img-fluid" />
+											</div>
+
+											<div class="comment-info">
+												<h5 class="mb-1">John</h5>
+												<span class="date-comm">Posted April 7, 2019</span>
+											</div>
+											<div class="comment-meta mt-2">
+												<a href="#"><i class="icofont-reply mr-2 text-muted"></i>Reply</a>
+											</div>
+
+											<div class="comment-content mt-3">
+												<p>
+													Some consultants are employed indirectly by the
+													client via a consultancy staffing company, a company
+													that provides consultants on an agency basis.
+												</p>
+											</div>
+										</div>
+									</li>
+
+									<li>
+										<div class="comment-area-box">
+											<div class="comment-thumb float-left">
+												<img alt="" src="images/blog/testimonial2.jpg" class="img-fluid" />
+											</div>
+
+											<div class="comment-info">
+												<h5 class="mb-1">Philip W</h5>
+												<span class="date-comm">Posted June 7, 2019</span>
+											</div>
+
+											<div class="comment-meta mt-2">
+												<a href="#"><i class="icofont-reply mr-2 text-muted"></i>Reply
+												</a>
+											</div>
+
+											<div class="comment-content mt-3">
+												<p>
+													Some consultants are employed indirectly by the
+													client via a consultancy staffing company, a company
+													that provides consultants on an agency basis.
+												</p>
+											</div>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+
+						<div class="col-lg-12">
+							<form class="comment-form my-5" id="comment-form">
+								<h4 class="mb-4">Write a comment</h4>
+								<div class="row">
+									<div class="col-md-6">
+										<div class="form-group">
+											<input class="form-control" type="text" name="name" id="name" placeholder="Name:">
+										</div>
+									</div>
+									<div class="col-md-6">
+										<div class="form-group">
+											<input class="form-control" type="text" name="mail" id="mail" placeholder="Email:">
+										</div>
+									</div>
+								</div>
+
+
+								<textarea class="form-control mb-4" name="comment" id="comment" cols="30" rows="5" placeholder="Comment"></textarea>
+
+								<input class="btn btn-main-2 btn-round-full" type="submit" name="submit-contact" id="submit_contact" value="Submit Message">
+							</form>
+						</div>
 					</div>
 				</div>
 				<div class="col-lg-4">

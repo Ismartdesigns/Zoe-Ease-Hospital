@@ -78,13 +78,13 @@
 
                 <div class="col-lg-6">
                   <div class="form-group">
-                    <input name="date" id="date" type="text" class="form-control" placeholder="dd/mm/yyyy">
+                    <input name="date" id="date" type="date" class="form-control" placeholder="dd/mm/yyyy">
                   </div>
                 </div>
 
                 <div class="col-lg-6">
                   <div class="form-group">
-                    <input name="time" id="time" type="text" class="form-control" placeholder="Time">
+                    <input name="time" id="time" type="time" class="form-control" placeholder="Time">
                   </div>
                 </div>
                 <div class="col-lg-6">

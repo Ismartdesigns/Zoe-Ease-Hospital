@@ -35,8 +35,7 @@
 					<h2 class="title-color">Personal care for your healthy living</h2>
 				</div>
 				<div class="col-lg-8">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quod laborum alias. Vitae dolorum, officia sit! Saepe ullam facere at, consequatur incidunt, quae esse, quis ut reprehenderit dignissimos, libero delectus.</p>
-					<img src="images/about/sign.png" alt="" class="img-fluid">
+					<p>Our approach revolves around a holistic understanding of your health, combining cutting-edge practices with a compassionate touch. We believe that fostering a partnership with you is crucial in achieving and maintaining optimal health. Our team of experienced professionals is passionate about empowering you with the knowledge and tools necessary to make informed decisions about your well-being.</p>
 				</div>
 			</div>
 		</div>
@@ -185,7 +184,7 @@
 			<div class="row">
 				<div class="col-lg-6 offset-lg-6">
 					<div class="section-title">
-						<h2 class="mb-4">What they say about us</h2>
+						<h2 class="mb-4">Our guiding purpose and aspirational outlook.</h2>
 						<div class="divider  my-4"></div>
 					</div>
 				</div>
@@ -194,11 +193,10 @@
 				<div class="col-lg-6 testimonial-wrap offset-lg-6">
 					<div class="testimonial-block">
 						<div class="client-info ">
-							<h4>Amazing service!</h4>
-							<span>John Partho</span>
+							<h4>Mission Statement</h4>
 						</div>
 						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
+							Our mission is to deliver exceptional, compassionate healthcare services to our community with integrity and innovation, ensuring the highest standard of medical excellence.
 						</p>
 						<i class="icofont-quote-right"></i>
 
@@ -206,44 +204,10 @@
 
 					<div class="testimonial-block">
 						<div class="client-info">
-							<h4>Expert doctors!</h4>
-							<span>Mullar Sarth</span>
+							<h4>Vision Statement</h4>
 						</div>
 						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
-						</p>
-						<i class="icofont-quote-right"></i>
-					</div>
-
-					<div class="testimonial-block">
-						<div class="client-info">
-							<h4>Good Support!</h4>
-							<span>Kolis Mullar</span>
-						</div>
-						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
-						</p>
-						<i class="icofont-quote-right"></i>
-					</div>
-
-					<div class="testimonial-block">
-						<div class="client-info">
-							<h4>Nice Environment!</h4>
-							<span>Partho Sarothi</span>
-						</div>
-						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
-						</p>
-						<i class="icofont-quote-right"></i>
-					</div>
-
-					<div class="testimonial-block">
-						<div class="client-info">
-							<h4>Modern Service!</h4>
-							<span>Kolis Mullar</span>
-						</div>
-						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
+							We aspire to be the trusted partner in fostering a healthier community through innovative healthcare, empathy, and respect, inspiring wellness and excellence in the region.
 						</p>
 						<i class="icofont-quote-right"></i>
 					</div>

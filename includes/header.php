@@ -46,7 +46,7 @@
 					</li>
 
 					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="doctor.php" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Doctors <i class="icofont-thin-down"></i></a>
+						<a class="nav-link dropdown-toggle" href="doctor.php" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Medical Team <i class="icofont-thin-down"></i></a>
 						<ul class="dropdown-menu" aria-labelledby="dropdown03">
 							<li><a class="dropdown-item" href="doctor.php">Doctors</a></li>
 							<li><a class="dropdown-item" href="doctor-single.php">Doctor Single</a></li>

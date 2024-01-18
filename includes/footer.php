@@ -74,7 +74,7 @@
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6">
 					<div class="copyright">
-						&copy; Copyright Reserved to <span class="text-color">Novena</span> by <a href="https://themefisher.com/" target="_blank">Themefisher</a>
+						&copy; Copyright Reserved <?php echo date('Y') ?> <span class="text-color">Zoe-Ease</span>
 					</div>
 				</div>
 				<div class="col-lg-6">
