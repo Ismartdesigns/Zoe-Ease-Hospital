@@ -1,69 +1,47 @@
-<header class="content-header">
 
-    <div class="sidebar-resize"></div>
-    <div class="mobile-menu">
-        <div class="st-burger-icon st-burger-icon--medium"><span></span></div>
-    </div>
 
-    <div class="content-header__user content-header__dropdown">
-        <div class="content-header__user-avatar content-header__dropdown-activate" data-dropdown="userdropdown">
-            <div class="content-header__user-thumb"><img src="../images/avatar-2.jpg" alt="" title="" /></div>
-            <span class="content-header__user-name">Nathalie Roberts</span>
-        </div>
-        <nav class="dropdown-menu dropdown-menu--header dropdown-menu--user-menu " id="userdropdown">
-            <h3 class="dropdown-menu__subtitle">User menu</h3>
-            <ul>
-                <li><a href="#">My profile</a></li>
-                <li><a href="#">Activity</a></li>
-                <li><a href="#">Switch account</a></li>
-                <li><a href="#">Support</a></li>
-                <li class="logout"><a href="#" class="button button--general button--red-border">Logout</a></li>
-            </ul>
+<nav class="navbar navbar-main navbar-expand-lg px-0 mx-4 shadow-none border-radius-xl" id="navbarBlur" navbar-scroll="true">
+    <div class="container-fluid py-1 px-3">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb bg-transparent mb-0 pb-0 pt-1 px-0 me-sm-6 me-5">
+                <li class="breadcrumb-item text-sm"><a class="opacity-5 text-dark" href="javascript:;">Admin</a></li>
+                <li class="breadcrumb-item text-sm text-dark active" aria-current="page">Dashboard</li>
+            </ol>
+            <h6 class="font-weight-bolder mb-0">Dashboard</h6>
         </nav>
-    </div>
-
-    <div class="content-header__notifications content-header__dropdown">
-        <div class="content-header__notifications-icon content-header__icon content-header__dropdown-activate" data-dropdown="notificationsdropdown">
-            <img src="../images/icons/icons-24-gray/notifications.png" alt="" title="" />
-            <span class="content-header__icon-bubble">6</span>
-        </div>
-        <nav class="dropdown-menu dropdown-menu--header dropdown-menu--notifications-menu" id="notificationsdropdown">
-            <h3 class="dropdown-menu__subtitle">You have <strong>6</strong> notifications</h3>
-            <ul>
-                <li class="d-flex justify-sb"><span class="important">IMPORTANT</span>Michael D. kidney surgery <b class="task-time">today</b></li>
-                <li class="d-flex justify-sb"><span class="important">IMPORTANT</span>FLU Alert report generated <b class="task-time">today</b></li>
-
-                <li class="d-flex justify-sb"><span>Meeting with <strong>Dr. Joshua</strong> </span> <b class="task-time">tomorrow</b></li>
-                <li class="d-flex justify-sb"><span>Remember to create prescriptions for <strong>Alexander P.</strong></span> <b class="task-time">tomorrow</b></li>
-                <li class="d-flex justify-sb"><span><strong>Jada Sacks</strong> canceled the appointment at Cardiology, Dr. Michael V. </span> <b class="task-time">24 jan, 19</b></li>
-                <li class="d-flex justify-sb"><span>Sarah D. registered as new patient of <strong>Dr. George</strong> at Dermatology </span> <b class="task-time">28 jan, 19</b></li>
-                <li class="view-all"><a href="#" class="button button--general button--blue-border">View all</a></li>
+        <div class="collapse navbar-collapse mt-sm-0 mt-2 me-md-0 me-sm-4" id="navbar">
+        
+            <div class="ms-md-auto pe-md-3 d-flex align-items-center">
+            <form action="blog-posts.php" method="GET">
+                <div class="input-group">
+                    <span class="input-group-text text-body"><i class="fas fa-search" aria-hidden="true"></i></span>
+                    <input type="text" name="query" class="form-control" placeholder="Type here...">
+                </div>
+            </form>
+            </div>
+        
+            <ul class="navbar-nav  justify-content-end">
+                <li class="nav-item d-flex align-items-center">
+                    <a href="logout.php" class="nav-link text-body font-weight-bold px-0">
+                        <i class="fa fa-sign-out me-sm-1"></i>
+                        <span class="d-sm-inline d-none">Logout</span>
+                    </a>
+                </li>
+                <li class="nav-item d-xl-none ps-3 d-flex align-items-center">
+                    <a href="javascript:;" class="nav-link text-body p-0" id="iconNavbarSidenav">
+                        <div class="sidenav-toggler-inner">
+                            <i class="sidenav-toggler-line"></i>
+                            <i class="sidenav-toggler-line"></i>
+                            <i class="sidenav-toggler-line"></i>
+                        </div>
+                    </a>
+                </li>
+                <li class="nav-item px-3 d-flex align-items-center">
+                    <a href="javascript:;" class="nav-link text-body p-0">
+                        <i class="fa fa-cog fixed-plugin-button-nav cursor-pointer"></i>
+                    </a>
+                </li>
             </ul>
-        </nav>
-    </div>
-
-    <div class="content-header__quicklinks content-header__dropdown">
-        <div class="content-header__quicklinks-icon content-header__icon content-header__dropdown-activate" data-dropdown="quicklinksdropdown">
-            <img src="../images/icons/icons-24-gray/submenu.png" alt="" title="" />
         </div>
-        <nav class="dropdown-menu dropdown-menu--header dropdown-menu--quicklinks-menu" id="quicklinksdropdown">
-            <h3 class="dropdown-menu__subtitle">Quick links</h3>
-            <ul>
-                <li><a href="#">Add new doctor</a></li>
-                <li><a href="#">Add new patient</a></li>
-                <li><a href="#">Generate reports</a></li>
-            </ul>
-        </nav>
     </div>
-
-    <div class="mobile-submenu"></div>
-
-    <nav class="content-header__menu">
-        <ul>
-            <li class="appointment selected modal-toggle" data-openpopup="appointment"><a href="#">Make an appointment</a></li>
-            <li class="prescription modal-toggle" data-openpopup="prescription"><a href="#">Write a prescription</a></li>
-            <li class="reports modal-toggle" data-openpopup="reports"><a href="#">Generate report</a></li>
-        </ul>
-    </nav>
-
-</header>
+</nav>
